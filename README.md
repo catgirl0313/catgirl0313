@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<h3 align="center"> 💻Tech Stack💻 </h3>
+<h3 align="center"> Tech Stack </h3>
 <h5 align="center">Techs that i've used at least once</h5>
 <div align="center">
   <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-f7df1e.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
