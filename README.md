@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 ---
 <h3 align="center"> Tech Stack </h3>
 <h5 align="center">Techs that i've used at least once</h5>
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <br/>
+ -->
